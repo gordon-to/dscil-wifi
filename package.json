@@ -1,0 +1,25 @@
+{
+  "name": "DCSILWifi",
+  "version": "0.0.1",
+  "author": "Adam Gordon <ag@adamgondon.ca> (adamgordon.ca)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xMrWhite/NodeLineReader"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "bootstrap-styl": "^5.0.5",
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-session": "^1.13.0",
+    "jade": "*",
+    "morgan": "^1.6.1",
+    "multer": "^1.1.0",
+    "nib": "*",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "rwlock": "^5.0.0",
+    "stylus": "*"
+  }
+}
